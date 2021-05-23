@@ -41,4 +41,3 @@ plt.text(F[0] * (1 + 0.03), F[1] * (1 - 0.1) , 'F')
 plt.xlabel('$x$')
 plt.ylabel('$y$')
 plt.legend(loc='best')
-plt.grid() # minor
